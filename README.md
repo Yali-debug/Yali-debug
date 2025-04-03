@@ -5,7 +5,7 @@
 
 🔹 Actuellement en apprentissage dans le développement d'expériences immersives 
 
-🔹 J'utilise Unity avec ARCore**, ARKit et VR SDKs 
+🔹 J'utilise Unity avec ARCore, ARKit et VR SDKs 
 
 🚀 Compétences et outils en cours d'apprentissage  
 - 🕶️ Unity*| C# | Blender  
