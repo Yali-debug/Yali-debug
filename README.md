@@ -1,11 +1,7 @@
 👋 Salut, moi c'est   Yali !
 
 🎯 À propos de moi  
-🔹 Passionné par la réalité augmentée (AR) et la réalité virtuelle (VR)
-
-🔹 Actuellement en apprentissage dans le développement d'expériences immersives 
-
-🔹 J'utilise Unity avec ARCore, ARKit et VR SDKs 
+🔹 Passionné par la réalité augmentée (AR) et la réalité virtuelle (VR) et Actuellement en apprentissage dans le développement d'expériences immersives, J'utilise Unity avec ARCore, ARKit et VR SDKs .
 
 🚀 Compétences et outils en cours d'apprentissage  
 - 🕶️ Unity*| C# | Blender  
@@ -15,6 +11,7 @@
 
 📌 Projets potentiels à développer   
 🚧 Développement d'une application mobile en AR pour la découverte culturelle
+
 🚧 Création d’une plateforme web pour promouvoir des artistes numériques 
 
 📫 Contact  
