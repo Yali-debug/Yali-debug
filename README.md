@@ -18,9 +18,9 @@
 🚧 Création d’une plateforme web pour promouvoir des artistes numériques 
 
 📫 Contact  
-💼 [LinkedIn](www.linkedin.com/in/bobby-franck-yalinguena-1725882b4)  
+💼 www.linkedin.com/in/bobby-franck-yalinguena-1725882b4  
 🌐 [Portfolio]()  
-📧 Email : [yalinguenabob@gmail.com]  
+📧 Email : yalinguenabob@gmail.com 
 
 ✨ Toujours curieux d’en apprendre plus sur l’AR/VR !
 
