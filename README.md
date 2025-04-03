@@ -2,7 +2,9 @@
 
 🎯 À propos de moi  
 🔹 Passionné par la réalité augmentée (AR) et la réalité virtuelle (VR)
-🔹 Actuellement en apprentissage dans le développement d'expériences immersives  
+
+🔹 Actuellement en apprentissage dans le développement d'expériences immersives 
+
 🔹 J'utilise Unity avec ARCore**, ARKit et VR SDKs 
 
 🚀 Compétences et outils en cours d'apprentissage  
