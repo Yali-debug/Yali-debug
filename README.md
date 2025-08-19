@@ -6,10 +6,10 @@ My dream is to become an XR (Extended Reality) Developer, specializing in immers
 
 Key Skills & Interests:
 - Unity 3D: Mastering Unity’s powerful engine for real-time development and prototyping.
-- XR Technologies:** Building for VR headsets (Oculus, HTC Vive), AR platforms (ARCore, ARKit), and MR devices (HoloLens).
-- C# Programming:** Writing efficient, reusable code to power interactive worlds and user interfaces.
-- 3D Design & Animation:** Collaborating with artists or using tools like Blender for assets and visual effects.
-- UX for Immersive Media:** Creating intuitive and engaging user experiences in spatial environments.
+- XR Technologies: Building for VR headsets (Oculus, HTC Vive), AR platforms (ARCore, ARKit), and MR devices (HoloLens).
+- C# Programming: Writing efficient, reusable code to power interactive worlds and user interfaces.
+- 3D Design & Animation: Collaborating with artists or using tools like Blender for assets and visual effects.
+- UX for Immersive Media: Creating intuitive and engaging user experiences in spatial environments.
 
 Why XR Development?
 
@@ -20,4 +20,4 @@ Goals:
 - Build portfolio projects across VR/AR/MR platforms.
 - Join a forward-thinking team shaping the future of immersive technology.
 
-Let’s connect and create reality beyond imagination!**
+Let’s connect and create reality beyond imagination!
