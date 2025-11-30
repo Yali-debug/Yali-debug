@@ -1,3 +1,19 @@
+
+<h1 align="center">Yalinguena Bobby Franck</h1>
+<h2 align="center">Unity XR Developper
+</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bobby-franck-yalinguena-1725882b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@bobbyyali" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
+</p>
+<img src= "https://github-profile-trophy.vercel.app/?username=Yali-debug&row=1&theme=darkhub&margin-w=15&no-bg=true" \>
+<img src= "https://github-readme-stats.vercel.app/api/top-langs?username=Yali-debug&show_icons=true&locale=en&layout=compact&theme=cobalt" \>
+<img src= "https://github-readme-streak-stats.herokuapp.com?user=samglish&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" \>
+<img src= "https://github-readme-stats.vercel.app/api?username=Yali-debug&show_icons=true&locale=en&theme=tokyonight" \><h1 align="center"> Yalinguena Bobby Franck</h1>
+<h2 align="center"> Unity XR Developper
+</h2>
+
+
 ## Dream Career Profile: XR Developer with Unity 3D
 
 About Me
