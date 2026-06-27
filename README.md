@@ -11,9 +11,6 @@
 <img src= "https://github-readme-streak-stats.herokuapp.com?user=samglish&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" \>
 
 
-
-## Dream Career Profile: XR Developer with Unity 3D
-
 About Me
 
 My dream is to become an XR (Extended Reality) Developer, specializing in immersive experiences using Unity 3D. As an XR developer, I aim to blend creativity with cutting-edge technology, designing interactive environments for Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR) applications.
