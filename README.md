@@ -4,7 +4,7 @@
 </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/bobby-franck-yalinguena-1725882b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://sketchfab.com/yalinguenabob" target="_blank"><img src="https://img.shields.io/badge/sketchfab-%230077B5.svg?logo=linkedin&logoColor=white" alt="shetchfab"></a>
+  <a href="https://sketchfab.com/yalinguenabob" target="_blank"><img src="https://img.shields.io/badge/sketchfab-%230077B5.svg?logo=linkedin&logoColor=black" alt="shetchfab"></a>
 </p>
 <img src= "https://github-profile-trophy.vercel.app/?username=Yali-debug&row=1&theme=darkhub&margin-w=15&no-bg=true" \>
 <img src= "https://github-readme-stats.vercel.app/api/top-langs?username=Yali-debug&show_icons=true&locale=en&layout=compact&theme=cobalt" \>
@@ -22,8 +22,8 @@ Key Skills & Interests:
 - 3D Design & Design: Collaborating with artists or using tools like Blender for assets and visual effects.
 - UX for Immersive Media: Creating intuitive and engaging user experiences in spatial environments.
 - Data and IA with python pandas
+  
 Why XR Development?
-
 XR excites me because it pushes the boundaries of how we interact with digital content, from gaming and entertainment to education, healthcare, and industry. I am passionate about crafting virtual worlds that feel real, encourage exploration, and deliver positive impact.
 
 Goals:
