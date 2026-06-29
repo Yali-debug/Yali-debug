@@ -4,7 +4,7 @@
 </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/bobby-franck-yalinguena-1725882b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@bobbyyali" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://sketchfab.com/yalinguenabob" target="_blank"><img src="https://www.google.com/imgres?q=sketchfab&imgurl=https%3A%2F%2Fstatic.sketchfab.com%2Fstatic%2Fbuilds%2Fweb%2Fdist%2Fstatic%2Fassets%2Fimages%2Ffavicon%2Fa81e1fd93fc053fed8a5f56640f886f8-v2.png&imgrefurl=https%3A%2F%2Fsketchfab.com%2F&docid=s6GFQ8gFgCN_xM&tbnid=dNi2IHTAG-us0M&vet=12ahUKEwiz4dz9wKuVAxXSHLkGHe00BYgQnPAOegQIGxAB..i&w=512&h=512&hcb=2&ved=2ahUKEwiz4dz9wKuVAxXSHLkGHe00BYgQnPAOegQIGxAB"></a>
 </p>
 <img src= "https://github-profile-trophy.vercel.app/?username=Yali-debug&row=1&theme=darkhub&margin-w=15&no-bg=true" \>
 <img src= "https://github-readme-stats.vercel.app/api/top-langs?username=Yali-debug&show_icons=true&locale=en&layout=compact&theme=cobalt" \>
