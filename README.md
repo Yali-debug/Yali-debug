@@ -15,10 +15,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ton-username&theme=tokyonight&hide_border=true&background=0A0A0F&ring=7C3AED&fire=00D4FF&currStreakLabel=E8E8F0" />
 </p>
 
-
 About Me
 
-My dream is to become an XR (Extended Reality) Developer, specializing in immersive experiences using Unity 3D. As an XR developer, I aim to blend creativity with cutting-edge technology, designing interactive environments for Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR) applications.
+XR (Extended Reality) Developer, specializing in immersive experiences using Unity 3D. As an XR developer, I aim to blend creativity with cutting-edge technology, designing interactive environments for Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR) applications.
 
 Key Skills & Interests:
 - Unity 3D: Mastering Unity’s powerful engine for real-time development and prototyping.
