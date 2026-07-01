@@ -30,4 +30,15 @@ Goals:
 - Build  immersive environnements and the tools to measure their pedagogical impact
 - Join a forward-thinking team shaping the future of immersive technology.
 
+# Mon Portfolio XR
+
+Site live → [ton-username.github.io](https://ton-username.github.io)
+
+Portfolio de développeur XR & IA — construit avec HTML/CSS vanilla.
+
+## Stack
+- Unity, WebXR, Three.js
+- Python, PyTorch
+- Blender
+
 Let’s connect and create reality beyond imagination!
