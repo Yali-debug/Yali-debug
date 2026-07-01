@@ -34,7 +34,6 @@ Goals:
 
 Site live → [Yali-debug.github.io](https://Yali-debug.github.io)
 
-Portfolio de développeur XR & IA — construit avec HTML/CSS vanilla.
 
 ## Stack
 - Unity, WebXR, Three.js
