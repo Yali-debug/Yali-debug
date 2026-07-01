@@ -6,9 +6,7 @@
   <a href="https://www.linkedin.com/in/bobby-franck-yalinguena-1725882b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://sketchfab.com/yalinguenabob" target="_blank"><img src="https://img.shields.io/badge/sketchfab-%230077B5.svg?logo=linkedin&logoColor=black" alt="shetchfab"></a>
 </p>
-<img src= "https://github-profile-trophy.vercel.app/?username=Yali-debug&row=1&theme=darkhub&margin-w=15&no-bg=true" \>
-<img src= "https://github-readme-stats.vercel.app/api/top-langs?username=Yali-debug&show_icons=true&locale=en&layout=compact&theme=cobalt" \>
-<img src= "https://github-readme-streak-stats.herokuapp.com?user=samglish&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" \>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=7C3AED&icon_color=00D4FF&text_color=E8E8F0" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=7C3AED&text_color=E8E8F0" height="160" />
