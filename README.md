@@ -32,7 +32,7 @@ Goals:
 
 # Mon Portfolio XR
 
-Site live → [ton-username.github.io](https://ton-username.github.io)
+Site live → [Yali-debug.github.io](https://Yali-debug.github.io)
 
 Portfolio de développeur XR & IA — construit avec HTML/CSS vanilla.
 
